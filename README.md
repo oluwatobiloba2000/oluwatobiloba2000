@@ -9,6 +9,8 @@ I am ✨ Anani Oluwatobiloba ✨
   <img align="left" alt="Anani Olwuatobiloba's LinkedIn" width="22px" src="https://res.cloudinary.com/oluwatobby/image/upload/v1629115873/svgexport-1_e7ukhp.svg" />
 </a>
 
+<br/>
+
 I am an enthusiastic software engineer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences.
 
 
