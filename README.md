@@ -23,5 +23,5 @@ I am an enthusiastic software engineer eager to contribute to team success throu
 - 📫 How to reach me: ananioluwatobiloba2000@gmail.com
 <!-- - ⚡ Fun fact: ... -->
 
-[![Anani oluwatobiloba's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatobiloba2000&bg_color=DEG,#ff0f7b,#f89b29&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anani oluwatobiloba's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatobiloba2000&theme=dark&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
