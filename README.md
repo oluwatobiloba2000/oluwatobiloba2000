@@ -20,7 +20,7 @@ I am an enthusiastic software engineer eager to contribute to team success throu
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ananioluwatobiloba2000@gmail.com
+- 📫 How to reach me: anani.tobi@gmail.com
 <!-- - ⚡ Fun fact: ... -->
 
 [![Anani oluwatobiloba's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatobiloba2000&theme=dark&count_private=true&hide=issues)](https://github.com/oluwatobiloba2000)
