@@ -16,7 +16,7 @@ I am an enthusiastic software engineer eager to contribute to team success throu
 
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently open to a backend/frontend role
+<!-- - 🌱 I’m currently open to a backend/frontend role -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
