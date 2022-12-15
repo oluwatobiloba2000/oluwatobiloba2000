@@ -14,7 +14,7 @@ I am ✨ Anani Oluwatobiloba ✨
 
 I am an enthusiastic software engineer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. I merge a passion for usability and user experience with technical knowledge to create cool digital experiences.
 
-Currently writing codes on the GitLab platform.
+Currently writing codes on GitLab platform.
 
 
 <!-- - 🔭 I’m currently working on ... -->
